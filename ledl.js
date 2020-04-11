@@ -1,3 +1,5 @@
 <script type="text/javascript">
-console.log("it worked!");
+function test(){
+	console.log("it worked!");
+}
 </script>
